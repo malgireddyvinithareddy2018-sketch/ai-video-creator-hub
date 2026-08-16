@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Creator Hub",
+  "description": "All-in-one AI Video, Image, Script & Character Creator Hub with credit system, rewarded ads, and content creator tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
